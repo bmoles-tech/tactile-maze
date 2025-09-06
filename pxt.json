@@ -1,5 +1,5 @@
 {
-    "name": "tactile maze",
+    "name": "tactile maze activity for makey makey",
     "description": "",
     "dependencies": {
         "device": "*"
